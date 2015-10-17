@@ -1,1 +1,1 @@
-# math-illustrations
+# mathematical-illustrations
