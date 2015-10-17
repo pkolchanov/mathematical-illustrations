@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="440px" height="198px" viewBox="0 0 440 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard" sketch:type="MSArtboardGroup" stroke="#4A4A4A" stroke-width="2">
+            <g id="tape" sketch:type="MSLayerGroup" transform="translate(-11.000000, 43.000000)">
+                <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="0" y="0" width="462" height="112"></rect>
+                <path d="M66,1 L66,111" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M176,1 L176,111" id="Line-Copy" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M287,1 L287,111" id="Line-Copy-2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M397,1 L397,111" id="Line-Copy-3" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

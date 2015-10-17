@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="444px" height="198px" viewBox="0 0 444 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="440px" height="198px" viewBox="0 0 440 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
     <title>Artboard</title>
     <desc>Created with Sketch.</desc>
@@ -9,9 +9,9 @@
             <g id="Parthenon-+-Golden-ratio" sketch:type="MSLayerGroup" transform="translate(50.000000, 0.000000)">
                 <g id="Parthenon" transform="translate(0.000000, 2.085729)" stroke="#4A4A4A" sketch:type="MSShapeGroup">
                     <g id="fundamentum" transform="translate(0.000000, 180.491854)">
-                        <rect id="Rectangle-2" x="9.82206406" y="4.92768732" width="325.355872" height="5.54364824"></rect>
+                        <path d="M9.82206406,4.92768732 L335.177936,4.92768732 L335.17793,10.8324505 L9.82206406,10.8324505 L9.82206406,4.92768732 Z" id="Rectangle-2"></path>
                         <rect id="Rectangle-1" x="0" y="9.85537464" width="345" height="5.54364824"></rect>
-                        <rect id="Rectangle-3" x="16.5747331" y="0" width="311.850534" height="5.54364824"></rect>
+                        <path d="M17,0 L328.425267,0 L328.425262,5.91796064 L17,5.91796064 L17,0 Z" id="Rectangle-3"></path>
                     </g>
                     <g id="colonnade" transform="translate(19.000918, 71.698694)">
                         <g id="Column" transform="translate(0.029331, 1.000000)">
