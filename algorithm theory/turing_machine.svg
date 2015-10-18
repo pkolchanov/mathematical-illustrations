@@ -5,14 +5,22 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Artboard" sketch:type="MSArtboardGroup" stroke="#4A4A4A" stroke-width="2">
-            <g id="tape" sketch:type="MSLayerGroup" transform="translate(-11.000000, 43.000000)">
-                <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="0" y="0" width="462" height="112"></rect>
-                <path d="M66,1 L66,111" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <path d="M176,1 L176,111" id="Line-Copy" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <path d="M287,1 L287,111" id="Line-Copy-2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <path d="M397,1 L397,111" id="Line-Copy-3" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        <g id="Artboard" sketch:type="MSArtboardGroup">
+            <g id="tape" sketch:type="MSLayerGroup" transform="translate(-44.000000, 0.000000)">
+                <path d="M44.5,112 L257,112" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M264.5,112 L485,112" id="Line-Copy-4" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M99,1 L99,111" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M209,1 L209,111" id="Line-Copy" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M320,1 L320,111" id="Line-Copy-2" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M430,1 L430,111" id="Line-Copy-3" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M44.5,1 L484.5,1" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-1" stroke="#979797" sketch:type="MSShapeGroup" x="110" y="11" width="88" height="90"></rect>
+                <rect id="Rectangle-1-Copy-4" stroke="#979797" sketch:type="MSShapeGroup" x="0" y="11" width="88" height="90"></rect>
+                <rect id="Rectangle-1-Copy" stroke="#979797" sketch:type="MSShapeGroup" x="221" y="11" width="88" height="90"></rect>
+                <rect id="Rectangle-1-Copy-2" stroke="#979797" sketch:type="MSShapeGroup" x="331" y="11" width="88" height="90"></rect>
+                <rect id="Rectangle-1-Copy-3" stroke="#979797" sketch:type="MSShapeGroup" x="442" y="11" width="88" height="90"></rect>
             </g>
+            <polygon id="Triangle-1" stroke="#000000" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" points="220 99 284 227 156 227 "></polygon>
         </g>
     </g>
 </svg>
