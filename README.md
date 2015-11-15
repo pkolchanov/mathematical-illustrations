@@ -1,7 +1,7 @@
 # mathematical-illustrations
 A set of vector illustrations made for [mmlectures](https://mmlectures.ru).
 ## Golden ratio
-![golden_ratio](/number theory/golden_ratio.svg)
+![golden_ratio](https://raw.githubusercontent.com/Ledokol/mathematical-illustrations/master/number-theory/golden_ratio.svg)
 ## Stream plot
 ![stream_plot](/differential equations/stream_plot.svg)
 ## Fourier transform
