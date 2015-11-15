@@ -1,16 +1,16 @@
 # mathematical-illustrations
 A set of vector illustrations made for [mmlectures](https://mmlectures.ru).
 ## Golden ratio
-![golden_ratio](https://raw.githubusercontent.com/Ledokol/mathematical-illustrations/master/number-theory/golden_ratio.svg)
+![golden_ratio](/number-theory/golden_ratio.png)
 ## Stream plot
-![stream_plot](/differential equations/stream_plot.svg)
+![stream_plot](/differential equations/stream_plot.png)
 ## Fourier transform
-![fourier_transform](/cryptography/fourier_transform.svg)
+![fourier_transform](/cryptography/fourier_transform.png)
 
 Based on [Jake latex plot]( http://pgfplots.net/tikz/examples/fourier-transform/)
 
-## Binomial distrubution
-![binomial_distrubution](/probability theory/binomial_distrubution.svg)
+## Binomial distribution
+![binomial_distrubution](/probability-theory/binomial_distribution.png)
 
 . . . and other
 ### License
