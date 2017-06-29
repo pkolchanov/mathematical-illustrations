@@ -3,7 +3,7 @@ A set of vector illustrations made for [mmlectures](https://mmlectures.ru).
 ## Golden ratio
 ![golden_ratio](/number-theory/golden_ratio.png)
 ## Stream plot
-![stream_plot](/differential equations/stream_plot.png)
+![stream_plot](/differential-equations/stream_plot.png)
 ## Fourier transform
 ![fourier_transform](/cryptography/fourier_transform.png)
 
